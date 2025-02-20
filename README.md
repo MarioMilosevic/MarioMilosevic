@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋! My name is Mario and I'm a Full Stack Developer, from Montenegro</h2>
+<h2 align="left">Hi 👋! My name is Mario and I'm a Software Developer, from Montenegro</h2>
 
-###
 
 
 ###
