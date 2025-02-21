@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mario and I'm a Web Developer from Montenegro</h2>
-
-
+<h2 align="left">Feel free to check some of my repos 🤙</h2>
 
 ###
 
@@ -35,34 +33,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="css3 logo"  />
 
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/buff_brain/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:mariomilosevic887@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mario-milosevic" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-
-<br clear="both">
-
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariomilosevic/mariomilosevic/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariomilosevic/mariomilosevic/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mariomilosevic/mariomilosevic/output/github-snake.svg" />
-</picture>
-
-###
-
-<br clear="both">
