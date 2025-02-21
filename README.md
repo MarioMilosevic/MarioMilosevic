@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Mario and I'm a Software Developer, from Montenegro</h2>
 
-
-
 ###
 
 <img align="center" height="300" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
@@ -45,9 +43,13 @@
   </a>
 </div>
 
-
 ###
 
 <br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariomilosevic/mariomilosevic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariomilosevic/mariomilosevic/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mariomilosevic/mariomilosevic/output/github-snake.svg" />
+</picture>
 ###
